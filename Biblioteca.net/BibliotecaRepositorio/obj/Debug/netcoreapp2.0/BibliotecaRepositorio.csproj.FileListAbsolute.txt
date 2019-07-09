@@ -1,0 +1,12 @@
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.deps.json
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.dll
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.pdb
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaDominio.dll
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaDominio.pdb
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.csprojAssemblyReference.cache
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.csproj.CoreCompileInputs.cache
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.AssemblyInfoInputs.cache
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.AssemblyInfo.cs
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.csproj.CopyComplete
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.dll
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.pdb

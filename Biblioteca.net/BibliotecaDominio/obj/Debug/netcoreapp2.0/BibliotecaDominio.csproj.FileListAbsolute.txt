@@ -1,0 +1,8 @@
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.deps.json
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.dll
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.pdb
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.csproj.CoreCompileInputs.cache
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.AssemblyInfoInputs.cache
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.AssemblyInfo.cs
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.dll
+D:\pruebas empresas\ceibasoftware\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.pdb
